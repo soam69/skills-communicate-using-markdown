@@ -16,5 +16,9 @@ int main(){
   print ("Hello World")
 ```
 
+- [ ] This task is not completed.
+- [x] This task is completed.
+- [ ] When you press Enter it automatically creates a new task.
+
 
 # <h6> I learned about communication using markdown. Thank you.
